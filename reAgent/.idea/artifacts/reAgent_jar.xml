@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="reAgent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/reAgent_jar</output-path>
+    <root id="archive" name="reAgent.jar">
+      <element id="module-output" name="reAgent" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javassist/javassist/3.11.0.GA/javassist-3.11.0.GA.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/source.txt" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/other" />
+    </root>
+  </artifact>
+</component>

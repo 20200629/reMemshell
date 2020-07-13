@@ -1,0 +1,17 @@
+net\sorry\agent\redefine\MySession.class
+net\sorry\agent\reAgent$2.class
+net\sorry\agent\redefine\MyResponse.class
+net\sorry\agent\redefine\MyServletOutputStream.class
+net\sorry\agent\redefine\MyServletContext.class
+net\sorry\agent\Proxy.class
+net\sorry\agent\reAttach.class
+net\sorry\agent\Shell.class
+net\sorry\agent\redefine\MyRequest.class
+net\sorry\agent\Shell$1StreamConnector.class
+net\sorry\agent\reTransformer.class
+net\sorry\agent\Evaluate.class
+net\sorry\agent\reAgent.class
+net\sorry\agent\Shell$1.class
+net\sorry\agent\reAgent$1.class
+net\sorry\agent\redefine\MyServletInputStream.class
+net\sorry\agent\Shell$2.class
