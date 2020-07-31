@@ -25,26 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd11610b-9285-44fc-9837-c4c4ec94d0d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reInject/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reInject/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/reAgent_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/reAgent_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/tools.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/tools.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lib/tools.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lib/tools.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sorry/agent/reTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sorry/agent/reTransformer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reInject/.idea/artifacts/reInject_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reInject/.idea/artifacts/reInject_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reInject/.idea/libraries/tools.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reInject/.idea/libraries/tools.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reInject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reInject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reInject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reInject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reInject/out/artifacts/reInject_jar/reInject.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../reInject/out/artifacts/reInject_jar/reInject.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reInject/src/main/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +193,7 @@
       <workItem from="1594481063018" duration="313000" />
       <workItem from="1594602503937" duration="1595000" />
       <workItem from="1596222827030" duration="2060000" />
+      <workItem from="1596225471203" duration="444000" />
     </task>
     <servers />
   </component>
@@ -237,6 +219,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="230" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596223071062">
@@ -255,10 +238,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="189" y="58" width="601" height="480" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1596224515503" />
-    <state x="255" y="0" key="SettingsEditor" timestamp="1596224802625">
+    <state x="255" y="0" key="SettingsEditor" timestamp="1596225534162">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="255" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1596224802625" />
+    <state x="255" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1596225534162" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
