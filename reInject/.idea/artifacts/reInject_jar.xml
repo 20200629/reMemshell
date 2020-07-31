@@ -2,11 +2,8 @@
   <artifact type="jar" name="reInject:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/reInject_jar</output-path>
     <root id="archive" name="reInject.jar">
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
-      </element>
       <element id="module-output" name="reInject" />
-      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_201/lib/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Oracle/Java/jdk1.8.0_261/lib/tools.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
