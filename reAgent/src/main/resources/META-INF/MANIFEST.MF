@@ -1,3 +1,4 @@
 Manifest-Version: 1.0
 Agent-Class: net.sorry.agent.reAgent
+Can-Redefine-Classes: true
 Can-Retransform-Classes: true
